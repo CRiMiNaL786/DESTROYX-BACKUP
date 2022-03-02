@@ -1,1 +1,1 @@
-worker: python3 Lion.py
+worker: python3 Destroy.py
