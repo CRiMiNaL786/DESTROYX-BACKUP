@@ -30,7 +30,6 @@ beautifulsoup4
 bs4
 bwb
 wand
-telegram
 lottie
 colour
 cfscrape
