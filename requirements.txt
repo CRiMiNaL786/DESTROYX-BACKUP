@@ -1,13 +1,11 @@
-
+oauth2client==4.1.3
+httplib2
 Pillow
 webdriver-manager
-redshift-sqlalchemy
-folium
 faker
 pokedex.py
 scipy
 scikit-learn
-#MediaInfo
 moviepy
 glitch_this
 PyGithub
