@@ -68,7 +68,7 @@ gTTS-token
 eyed3
 hachoir
 heroku
-heroku3==4.2.3
+heroku3
 httplib2==0.19.0
 humanize
 lxml
