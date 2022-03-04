@@ -41,7 +41,7 @@
 
 # Click On This To Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MdNoor786/DESTROY-X)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CRiMiNaL786/DESTROYX-BACKUP)
 
 # Requirements 
 * Python 3.8 or Higher
@@ -55,7 +55,7 @@
 
 
 # Credit
-Special Thanks To Our contributors Pro Boy , Danish00 , Shivam , Shiwa ,Pawan And Anmol.
+Special Thanks To Our contributors Pro Boy , Danish00 , Shivam , Shiwa , Pawan , Anmol and NooR
 
 
 
